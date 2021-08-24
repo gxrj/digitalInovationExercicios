@@ -1,18 +1,3 @@
-/**
-    Exercício proposto pela trilha: Desenvolvimento básico em Java >> Capítulo 8: Trabalhando com datas >>  Vídeo: Classe Calendar
-    Bootcamp Java Inter 
-    
-    Descricao do problema: 
-    Cliente deve ser informado sobre a qtde de dias que pode pagar a fatura sem juros;
-    O prazo para que não ocorra juros na fatura é de até 10 dias após o vcto;
-    Se o prazo cair em finais de semana ele deve ser estendido para o dia útil mais próximo;
-    
-    Observação:
-    Não foi acrescentado um mecanismo de input para o usuário visto que não era o propósito do exercício
-*/
-
-
-
 import java.util.Calendar;
 
 
